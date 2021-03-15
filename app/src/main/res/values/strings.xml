@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KannusApp</string>
+    <string name="hello">Hello Kannu!!</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="recording_button">This is recording button</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="stop_playing">Stop Playing</string>
+    <string name="enter_file_name">Enter file name</string>
+</resources>
